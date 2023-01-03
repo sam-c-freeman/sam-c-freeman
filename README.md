@@ -12,3 +12,13 @@
 ### About:
 
 When I'm not coding, you can likely find me watching the leaves change, managing my fantasy football teams with the fervor of a real coach or chasing weird futuristic architecture the way some people chase tornados.
+
+## Learning:
+* TypeScript
+* Pigeon Maps
+* QuickBooks API
+* Auth 0
+
+## → Other Links
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/sam-c-freeman/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samcfreeman888@gmail.com)
