@@ -1,5 +1,10 @@
 <h1> Hello from St. Paul, MN :snowflake: </h1>
 
+<b> Software Engineer </b>
+
+## → My Skillset
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 
 Here are some ideas to get you started:
