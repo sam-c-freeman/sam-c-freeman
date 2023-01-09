@@ -8,6 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=20232A)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=20232A)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=20232A)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=20232A)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-c-freeman&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/sam-c-freeman) -->
 
