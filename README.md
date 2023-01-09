@@ -22,7 +22,7 @@ When I'm not coding, you can likely find me watching the leaves change, managing
 * TypeScript
 * Pigeon Maps
 * QuickBooks API
-* Auth0
+* OAuth
 
 ## → Other Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-c-freeman/)
