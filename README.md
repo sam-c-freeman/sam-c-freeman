@@ -20,7 +20,6 @@
 When I'm not coding, you can likely find me watching the leaves change, managing my fantasy football teams with the fervor of a real coach or chasing weird futuristic architecture the way some people chase tornados.
 
 ## Learning:
-* TypeScript
 * Next.js
 * Pigeon Maps
 * QuickBooks API
