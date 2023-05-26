@@ -20,6 +20,7 @@ When I'm not coding, you can likely find me watching the leaves change, managing
 
 ## Learning:
 * TypeScript
+* Next.js
 * Pigeon Maps
 * QuickBooks API
 * OAuth
